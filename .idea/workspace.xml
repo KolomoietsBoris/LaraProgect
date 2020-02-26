@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4c4fb86-77d2-4ae5-bb09-6586b30c45a1" name="Default Changelist" comment="" />
+    <list default="true" id="f4c4fb86-77d2-4ae5-bb09-6586b30c45a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin/BaseController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin/CategoryController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blog/admin/category/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blog/admin/category/includes/item_edit_add_col.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blog/admin/category/includes/item_edit_main_col.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blog/admin/category/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +23,9 @@
     <execution>
       <executable path="composer" />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -117,6 +131,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1Y7lHGJhYDVKemVyuvfTQRhTJKz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -124,13 +141,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MVC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/Models" />
     </key>
@@ -157,18 +179,25 @@
       <workItem from="1582472967018" duration="10344000" />
       <workItem from="1582489417005" duration="1306000" />
       <workItem from="1582524763266" duration="17125000" />
-      <workItem from="1582714566351" duration="1920000" />
+      <workItem from="1582714566351" duration="7072000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="630" y="34" width="640" height="983" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582617298379">
       <screen x="0" y="34" width="1920" height="983" />
     </state>
     <state x="630" y="34" width="640" height="983" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.34.1920.983@0.34.1920.983" timestamp="1582617298379" />
+    <state x="423" y="34" width="1064" height="983" key="CommitChangelistDialog2" timestamp="1582721415320">
+      <screen x="0" y="34" width="1920" height="983" />
+    </state>
+    <state x="423" y="34" width="1064" height="983" key="CommitChangelistDialog2/0.34.1920.983@0.34.1920.983" timestamp="1582721415320" />
     <state x="643" y="427" width="623" height="195" key="ComposerInitDialogKey" timestamp="1582400052222">
       <screen x="0" y="34" width="1920" height="983" />
     </state>
@@ -177,10 +206,10 @@
       <screen x="0" y="34" width="1920" height="983" />
     </state>
     <state x="690" y="225" width="530" height="598" key="FileChooserDialogImpl/0.34.1920.983@0.34.1920.983" timestamp="1582622603545" />
-    <state x="726" y="435" width="458" height="178" key="NewPhpFileDialog" timestamp="1582652830229">
+    <state x="726" y="435" width="458" height="178" key="NewPhpFileDialog" timestamp="1582726246427">
       <screen x="0" y="34" width="1920" height="983" />
     </state>
-    <state x="726" y="435" width="458" height="178" key="NewPhpFileDialog/0.34.1920.983@0.34.1920.983" timestamp="1582652830229" />
+    <state x="726" y="435" width="458" height="178" key="NewPhpFileDialog/0.34.1920.983@0.34.1920.983" timestamp="1582726246427" />
     <state x="325" y="72" key="SettingsEditor" timestamp="1582714796881">
       <screen x="0" y="34" width="1920" height="983" />
     </state>
