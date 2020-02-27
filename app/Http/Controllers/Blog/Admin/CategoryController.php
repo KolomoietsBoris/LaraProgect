@@ -16,8 +16,8 @@ class CategoryController extends BaseController
     {
         $paginator = BlogCategory::paginate(5);
 
-        return view('blog.admin.category.index', compact('paginator'));=[][
-            \]
+        return view('blog.admin.category.index', compact('paginator'));
+
 
     }
 
